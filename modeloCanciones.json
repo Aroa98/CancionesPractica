@@ -1,0 +1,58 @@
+{
+  "modeloJSONcanciones": [
+    {
+      "id  ": "1",
+      "título": "Canción 1 ",
+      "url": "https://github.com/Aroa98/CancionesPractica/raw/refs/heads/main/cancion1.mp3",
+      "": ""
+    },
+    {
+      "id  ": "2  ",
+      "título": "Canción 2",
+      "url": "https://github.com/Aroa98/CancionesPractica/raw/refs/heads/main/cancion2.mp3",
+      "": ""
+    },
+    {
+      "id  ": "3",
+      "título": "Canción 3 ",
+      "url": "https://github.com/Aroa98/CancionesPractica/raw/refs/heads/main/cancion3.mp3",
+      "": ""
+    },
+    {
+      "id  ": "",
+      "título": null,
+      "url": null,
+      "": ""
+    },
+    {
+      "id  ": "",
+      "título": null,
+      "url": null,
+      "": ""
+    },
+    {
+      "id  ": "",
+      "título": null,
+      "url": null,
+      "": ""
+    },
+    {
+      "id  ": "",
+      "título": null,
+      "url": null,
+      "": ""
+    },
+    {
+      "id  ": "",
+      "título": null,
+      "url": null,
+      "": ""
+    },
+    {
+      "id  ": "",
+      "título": null,
+      "url": null,
+      "": ""
+    }
+  ]
+}
